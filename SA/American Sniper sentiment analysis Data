@@ -1,0 +1,76 @@
+index,score,A/B,utterance
+0,0.0,CHRIS,"CHRIS: It may have been the leather pants. 
+"
+1,0.1431,TAYA,"TAYA: Yeah? What kind of pants does a girl have to wear to be left alone?  
+"
+2,0.0,CHRIS,"CHRIS: Maybe corduroy. 
+"
+3,0.3612,TAYA,"TAYA: Is that how it is with you guys you are like suddenly single after three beers?  
+"
+4,0.0,CHRIS,"CHRIS: Only thing that happens to me after three beers is a fourth.  
+"
+5,0.6249,TAYA,"TAYA: That is great. A real red-neck. 
+"
+6,-0.296,CHRIS,"CHRIS: I am no redneck, I am from Texas.  
+"
+7,0.0,TAYA,"TAYA: What is the difference? 
+"
+8,0.0,CHRIS,"CHRIS: We ride horses, they ride their cousins.  
+"
+9,0.3612,TAYA,"TAYA: What do you do for work? You look like military.  
+"
+10,0.0,CHRIS,"CHRIS: I polish dolphins. They are in captivity, what I do is sort of scrape off crustaceans.  
+"
+11,-0.5267,TAYA,"TAYA: Do I look stupid to you? 
+"
+12,0.1263,CHRIS,"CHRIS: To be honest, you look a little sad. (Beat) So am I tall enough to buy you a drink?  
+"
+13,0.0,TAYA,"TAYA: Not until you tell me what you do. 
+"
+14,0.0,CHRIS,"CHRIS: How about this; How about we do a shot for a question. Every time you ask a question you gotta do a shot and same, vise versa.  
+"
+15,0.0,TAYA,"TAYA: Game on.  
+"
+16,-0.34,CHRIS,"CHRIS: You can lead the ball too. Ok, shoot.  
+"
+17,0.0,TAYA,"TAYA: Ok. You are obviously military. What branch?  
+"
+18,0.0,CHRIS,"CHRIS: I’m just finishing BUD/S and sniper school.  
+"
+19,0.1926,TAYA,"TAYA: Are you kidding me? You are a SEAL?  
+"
+20,0.0,CHRIS,"CHRIS: That was two questions...  
+"
+21,-0.5574,TAYA,"TAYA: Shit. (She takes two shots) 
+"
+22,0.0,CHRIS,"CHRIS: Oh I did not really mean you had to do that.  
+"
+23,0.4019,TAYA,"TAYA: I know all about you guys. My sister was engaged to a SEAL.  
+"
+24,0.0,CHRIS,"CHRIS: Oh was she? How do you know all about us, what do you mean? 
+"
+25,-0.8074,TAYA,"TAYA: You are a bunch of arrogant, self-centered pricks who think you can lie and do whatever the fuck you want. I would never date a SEAL.  
+"
+26,0.0,CHRIS,"CHRIS: How can you say we are self-centered? I would lay down my life for my country.  
+"
+27,0.0,TAYA,"TAYA: Why?  
+"
+28,-0.3178,CHRIS,"CHRIS: Cause it is the greatest country on earth and I believe it is worth protecting. I am sorry this guy hurt your sister but that is not me. Nice to meet you.  
+"
+29,0.0,TAYA,"TAYA: Where are you going? 
+"
+30,0.0,CHRIS,"CHRIS :I am just going to go home because you said you would never date a SEAL. 
+"
+31,0.0,TAYA,"TAYA: I said I would never marry one.  
+"
+32,0.2732,CHRIS,"CHRIS: Oh, Ok. Well them maybe hello...Nice to meet you, what is your name? 
+"
+33,0.0,TAYA,"TAYA: Taya.  
+"
+34,0.4215,CHRIS,"CHRIS: Taya. I am Chris Kyle. Nice to meet you,  
+"
+35,0.5994,TAYA,"TAYA: Pretty egotistical of you to think you can protect us all, is not it Chris?  
+"
+36,-0.4404,CHRIS,"CHRIS: Our BUD/S officer commanders say there is three things we have to worry about: ego, liquor, and women. 
+"
+37,-0.1531,TAYA,TAYA: Sounds like you are under attack.
